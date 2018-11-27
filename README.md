@@ -1,6 +1,8 @@
 # extensionStep
 a extension step of element-ui
 
+![image](https://github.com/dingwanyu000/extensionStep/demo.png)
+
 import ExtensionStep from './ExtensionStep' // 文件引入
 
 components: {ExtensionStep}, 
